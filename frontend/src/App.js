@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import { Send, BookOpen, FileText, Clock, GraduationCap, PlusCircle } from "lucide-react";
 import "./App.css";
 
-const BACKEND_URL = "https://chatbotcmc-production.up.railway.app";
+const BACKEND_URL = "https://chatbot-cmc.onrender.com";
 
 const WELCOME_MESSAGE = {
   role: "bot",
